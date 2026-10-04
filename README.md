@@ -2,7 +2,7 @@
 
 **Chart-first, research-validated stock screener for US mid- and large-cap stocks.**
 
-`stock-screener-2` is version 2 of the original [`stock-screener`](../stock-screener/) skill. It keeps v1's quantitative screen and tiered web-research method. On top of that, it adds a **chart-pattern validation** step, runs that step **before** research, and shows **each stock's chart** in the final report.
+`stock-screener-2` is version 2 of the original [`stock-screener`](https://github.com/benkohcc/stock-screener) skill. It keeps v1's quantitative screen and tiered web-research method. On top of that, it adds a **chart-pattern validation** step, runs that step **before** research, and shows **each stock's chart** in the final report.
 
 > ⚠️ For educational purposes only. Not financial advice.
 
